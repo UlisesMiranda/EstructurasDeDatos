@@ -25,6 +25,7 @@ struct ARBOLBIN *tree = NULL;
 
 int main () {
     MostrarMenu ();
+    printf ("ADIOS");
     return 0;
 }
 
